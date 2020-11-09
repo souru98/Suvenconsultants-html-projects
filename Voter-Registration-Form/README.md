@@ -2,7 +2,7 @@
 
 ## Built using HTML5 & CSS3
 
-## simple Project 
+## simple voting registral portal clone Project 
 ## Static HTML Web Page
 
 ## Screenshot
