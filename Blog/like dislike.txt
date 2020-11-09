@@ -1,0 +1,81 @@
+<body>
+
+<script async="" custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<center>
+<div id="bigad_display">
+
+<amp-ad layout="fixed" width="728" height="90" type="adsense" data-ad-client="ca-pub-6925135507586183" data-ad-slot="2956656957">
+</amp-ad>
+
+</div>
+</center>
+
+<br>
+<br>
+    
+	
+	color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+<center>
+<div id="linkad_middle">
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- linkad_middle -->
+<ins class="adsbygoogle" style="display: block; height: 90px;" data-ad-client="ca-pub-6925135507586183" data-ad-slot="7436819753" data-ad-format="link" data-full-width-responsive="true" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:995px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:995px;background-color:transparent;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:995px;height:90px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="995" height="90" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6925135507586183&amp;output=html&amp;h=90&amp;slotname=7436819753&amp;adk=1094673475&amp;adf=1386198103&amp;w=995&amp;fwrn=4&amp;lmt=1601034261&amp;rafmt=10&amp;psa=1&amp;guci=2.2.0.0.2.2.0.0&amp;format=995x90_0ads_al&amp;url=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fdemo%2Fdemo_youtube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;flash=0&amp;fwr=0&amp;fwrattr=true&amp;wgl=1&amp;dt=1601034261799&amp;bpp=11&amp;bdt=248&amp;idt=77&amp;shv=r20200923&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D0b7b54e510e072ad%3AT%3D1601033158%3AS%3DALNI_MY9MG92IZwK4Y7-m_qHU3XTTpi56w&amp;correlator=2705551613531&amp;frm=20&amp;pv=2&amp;ga_vid=720373028.1601033156&amp;ga_sid=1601034262&amp;ga_hid=1118030350&amp;ga_fc=0&amp;iag=0&amp;icsg=36490&amp;dssz=13&amp;mdo=0&amp;mso=0&amp;u_tz=330&amp;u_his=1&amp;u_java=0&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=177&amp;ady=166&amp;biw=1349&amp;bih=657&amp;scr_x=0&amp;scr_y=0&amp;eid=21066430&amp;oid=3&amp;pvsid=1226775225730482&amp;pem=252&amp;ref=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fyoutube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;rx=0&amp;eae=0&amp;fc=896&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&amp;vis=1&amp;rsz=%7C%7CeE%7C&amp;abl=CS&amp;pfx=0&amp;fu=8320&amp;bc=23&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;xpc=ijhwQhquhL&amp;p=http%3A//talkerscode.com&amp;dtd=123" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true" data-google-query-id="CMa90rOdhOwCFQh-jwodHZsK3w"></iframe></ins></ins></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</center>
+<h1>Youtube Style Like and Dislike Rating System <br>Using jQuery,Ajax and PHP</h1>
+<a class="tut_link" href="../youtube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php">See This Tutorial</a>
+
+<input type="image" src="images/like.png" onclick="insert_like();" id="like_button">
+<input type="image" src="images/dislike.png" onclick="insert_dislike();" id="dislike_button">
+<div id="totalvotes"></div>
+
+<br>
+<br>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<center>
+<div id="middlead_display">
+
+<ins class="adsbygoogle" style="display: block; text-align: center; height: 280px;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-6925135507586183" data-ad-slot="4440334351" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><iframe id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0;width:336px;height:280px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="336" height="280" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6925135507586183&amp;output=html&amp;h=280&amp;slotname=4440334351&amp;adk=1916052945&amp;adf=2639361642&amp;w=336&amp;fwrn=4&amp;lmt=1601034261&amp;rafmt=11&amp;psa=1&amp;guci=2.2.0.0.2.2.0.0&amp;format=336x280&amp;url=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fdemo%2Fdemo_youtube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;flash=0&amp;wgl=1&amp;dt=1601034261811&amp;bpp=7&amp;bdt=261&amp;idt=148&amp;shv=r20200923&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D0b7b54e510e072ad%3AT%3D1601033158%3AS%3DALNI_MY9MG92IZwK4Y7-m_qHU3XTTpi56w&amp;prev_fmts=995x90_0ads_al&amp;correlator=2705551613531&amp;frm=20&amp;pv=1&amp;ga_vid=720373028.1601033156&amp;ga_sid=1601034262&amp;ga_hid=1118030350&amp;ga_fc=0&amp;iag=0&amp;icsg=560778&amp;dssz=14&amp;mdo=0&amp;mso=0&amp;rplot=4&amp;u_tz=330&amp;u_his=1&amp;u_java=0&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=307&amp;ady=571&amp;biw=1349&amp;bih=657&amp;scr_x=0&amp;scr_y=0&amp;eid=21066430&amp;oid=3&amp;pvsid=1226775225730482&amp;pem=252&amp;ref=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fyoutube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;rx=0&amp;eae=0&amp;fc=896&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&amp;vis=1&amp;rsz=%7C%7ClE%7C&amp;abl=CS&amp;pfx=0&amp;fu=8320&amp;bc=23&amp;ifi=2&amp;uci=a!2&amp;fsb=1&amp;xpc=AvKMMvHlmC&amp;p=http%3A//talkerscode.com&amp;dtd=157" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!2" data-google-query-id="COSM37OdhOwCFc-yewodpb0O2g" data-load-complete="true"></iframe></ins></ins></ins>
+
+</div>
+
+
+<div id="second_middlead_display">
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-6925135507586183" data-ad-slot="4440334351">
+</ins>
+
+</div>
+
+</center>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<center>
+
+</center>
+
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6925135507586183&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1601034261&amp;plat=1%3A32776%2C2%3A32776%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32%2C40%3A32&amp;guci=2.2.0.0.2.2.0.0&amp;format=0x0&amp;url=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fdemo%2Fdemo_youtube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;ea=0&amp;flash=0&amp;pra=7&amp;wgl=1&amp;dt=1601034261819&amp;bpp=1&amp;bdt=268&amp;idt=156&amp;shv=r20200923&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D0b7b54e510e072ad%3AT%3D1601033158%3AS%3DALNI_MY9MG92IZwK4Y7-m_qHU3XTTpi56w&amp;prev_fmts=995x90_0ads_al%2C336x280&amp;nras=1&amp;correlator=2705551613531&amp;frm=20&amp;pv=1&amp;ga_vid=720373028.1601033156&amp;ga_sid=1601034262&amp;ga_hid=1118030350&amp;ga_fc=0&amp;iag=0&amp;icsg=560778&amp;dssz=14&amp;mdo=0&amp;mso=0&amp;u_tz=330&amp;u_his=1&amp;u_java=0&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1349&amp;bih=657&amp;scr_x=0&amp;scr_y=0&amp;eid=21066430&amp;oid=3&amp;pvsid=1226775225730482&amp;pem=252&amp;ref=http%3A%2F%2Ftalkerscode.com%2Fwebtricks%2Fyoutube-style-like-and-dislike-rating-system-using-jquery-ajax-and-php.php&amp;rx=0&amp;eae=2&amp;fc=896&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=8192&amp;bc=23&amp;ifi=2&amp;uci=a!2&amp;fsb=1&amp;dtd=171" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!2" data-load-complete="true"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_9647409373457" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body>
