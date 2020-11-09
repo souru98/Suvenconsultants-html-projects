@@ -4,4 +4,6 @@
 ## simple blog application 
 ## Static HTML Web Page
 
+## Screenshot
+
 ## Demo
