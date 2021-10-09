@@ -1,4 +1,4 @@
-# HTML5 & CSS3 
+# HTML5 and CSS3 
 ## Project built with plain Html and css
 ### 1.Blog
 
